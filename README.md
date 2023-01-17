@@ -9,5 +9,5 @@ Sentiment Analysis is widely applied to review social media in a variety of appl
 The project includes the following:
 - Explanation of the tasks.pdf - which explains the aim of the project and describes the overall algorithm
 - AFINN-111.txt and AFINN-README.txt files - which provides the idea about an AFINN dataset and includes the dataset itself, which is used in the Sentiment Analysis
-- stop-words_english from 1 to 6.txt - a set of stop words, which are common in Natural Language Processing (NLP) projects
+- stop-words_english from 1 to 6.txt - a set of stop words, which are common in Natural Language Processing (NLP) applications
 - Sentiment_Analysis.ipynb - a project itself, done in Jupyter Notebook
